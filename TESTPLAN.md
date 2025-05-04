@@ -64,13 +64,14 @@ This test plan covers **functional, exploratory, API, UI, load, and WebSocket te
 | No PRD (Product Doc)   | High   | Derive requirements through UI/design and exploratory testing |
 | Real-time event failure| High   | Thorough WebSocket tests with connection and event logging   |
 
-## 9. Test Deliverables
-- ✅ Test Plan (this document)  
-- ✅ [Test Report – Google Doc](https://docs.google.com/document/d/1-22Rgb_DDprAjDOcMPzGb3BYaupV0HO26tm1NwLjHdw/edit?tab=t.0)  
-- ✅ Bug Report  
-- ✅ Test Execution Videos  
-  
+### 9. Test Deliverables
 
+- [Test Plan (this document)](#)
+- [Test Report](https://docs.google.com/document/d/1-22Rgb_DDprAjDOcMPzGb3BYaupV0HO26tm1NwLjHdw/edit?tab=t.0)
+- [Bug Report](https://docs.google.com/spreadsheets/d/1PWOIr8a3VSpLuOjDzqtTWsXJ0ZcL1aTld5_dhFMq7Z4/edit?gid=555480705#gid=555480705)
+- [Test Execution Videos](https://docs.google.com/document/d/1oNfh2xM44T57D8colIqiv6Zegwzit9Uu5suNUZI_CFc/edit?tab=t.0)
+  
+  
 ## 10. Timeline
 
 | Phase                  | Estimated Time |
